@@ -1,0 +1,18 @@
+body {
+    background: #ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: #441151;
+    text-align: center;
+}
+
+h1:hover {
+    color: #1F271B;
+}
+
+.plans {
+    text-align: center;
+    padding: 10px;
+}
