@@ -12,7 +12,12 @@ h1:hover {
     color: #1F271B;
 }
 
+p {
+    /* adds 1 unit of spacing after each paragraph */
+    margin-bottom: 10em;
+}    
+
 .plans {
     text-align: center;
-    padding: 10px;
+    padding: 20px;
 }
