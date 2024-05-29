@@ -14,10 +14,11 @@ h1:hover {
 
 p {
     /* adds 1 unit of spacing after each paragraph */
-    margin-bottom: 10em;
+    margin-bottom: 7.5em;
 }    
 
 .plans {
     text-align: center;
     padding: 20px;
+    font-size: larger;
 }
