@@ -4,11 +4,20 @@ body {
 }
 
 h1 {
-    color: #441151;
+    color: #800020;
     text-align: center;
 }
 
 h1:hover {
+    color: #1F271B;
+}
+
+h3 {
+    color: #1e3f38;
+    text-align: center;
+}
+
+h3:hover {
     color: #1F271B;
 }
 
